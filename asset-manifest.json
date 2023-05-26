@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "https://jud1th1.github.io/csb-romcf9/static/css/main.79c23702.css",
+    "main.js": "https://jud1th1.github.io/csb-romcf9/static/js/main.d1d68365.js",
+    "index.html": "https://jud1th1.github.io/csb-romcf9/index.html",
+    "main.79c23702.css.map": "https://jud1th1.github.io/csb-romcf9/static/css/main.79c23702.css.map",
+    "main.d1d68365.js.map": "https://jud1th1.github.io/csb-romcf9/static/js/main.d1d68365.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79c23702.css",
+    "static/js/main.d1d68365.js"
+  ]
+}
